@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="wm-back" />
         <module name="wm-common" />
+        <module name="wm-product" />
         <module name="wm-wx-api" />
         <module name="wmparern" />
       </profile>
@@ -21,6 +22,7 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="wm-back" options="-parameters" />
       <module name="wm-common" options="-parameters" />
+      <module name="wm-product" options="-parameters" />
       <module name="wm-wx-api" options="-parameters" />
     </option>
   </component>
