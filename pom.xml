@@ -12,6 +12,7 @@
         <module>wm-back</module>
         <module>wm-common</module>
         <module>wm-product</module>
+        <module>wm-wx-api</module>
     </modules>
 
 
